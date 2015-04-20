@@ -1,3 +1,4 @@
 *.class
 *.jar
 tp3_TLI/nbproject/
+/tp3_TLI/build/
